@@ -2,7 +2,7 @@
  * ADC.c
  *
  *  Created on: Oct 7, 2022
- *      Author: hp 22
+ *      Author: ashraf abdelsabor
  */
 #include "avr/io.h" /* To use the ADC Registers */
 #include "ADC.h"
