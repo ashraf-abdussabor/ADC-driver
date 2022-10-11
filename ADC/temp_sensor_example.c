@@ -1,7 +1,7 @@
 /*
  ================================================================================================
  Name        : temp_sensor_example.c
- Author      : Mohamed Tarek
+ Author      : ashraf abdelsabor
  Description : Test the ADC driver designed with polling technique using LM35 Temperature Sensor
  Date        : 5/9/2015
  ================================================================================================
